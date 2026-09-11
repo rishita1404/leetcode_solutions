@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishita1404/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishita1404/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rishita1404/leetcode_solutions/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
