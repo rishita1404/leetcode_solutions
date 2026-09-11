@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishita1404/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishita1404/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/rishita1404/leetcode_solutions/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishita1404/leetcode_solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishita1404/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -66,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
