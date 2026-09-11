@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishita1404/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/rishita1404/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0136-single-number) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishita1404/leetcode_solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishita1404/leetcode_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
