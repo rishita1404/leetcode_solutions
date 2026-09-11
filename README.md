@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishita1404/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rishita1404/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishita1404/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
