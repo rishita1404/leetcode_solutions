@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/rishita1404/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishita1404/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
