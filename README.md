@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishita1404/leetcode_solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishita1404/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rishita1404/leetcode_solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
