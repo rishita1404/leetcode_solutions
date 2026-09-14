@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishita1404/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishita1404/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rishita1404/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishita1404/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishita1404/leetcode_solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
