@@ -207,5 +207,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishita1404/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/rishita1404/leetcode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rishita1404/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rishita1404/leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
