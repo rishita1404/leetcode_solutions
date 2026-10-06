@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rishita1404/leetcode_solutions/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishita1404/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/rishita1404/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
 |  |
 | ------- |
