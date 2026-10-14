@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishita1404/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishita1404/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishita1404/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishita1404/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishita1404/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishita1404/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishita1404/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishita1404/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -168,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -234,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rishita1404/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
