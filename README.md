@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishita1404/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rishita1404/leetcode_solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishita1404/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/rishita1404/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishita1404/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rishita1404/leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/rishita1404/leetcode_solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rishita1404/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishita1404/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rishita1404/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
