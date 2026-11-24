@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rishita1404/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/rishita1404/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishita1404/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishita1404/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishita1404/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishita1404/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/rishita1404/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishita1404/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/rishita1404/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/rishita1404/leetcode_solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rishita1404/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishita1404/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/rishita1404/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
