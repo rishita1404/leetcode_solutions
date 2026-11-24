@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishita1404/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishita1404/leetcode_solutions/tree/master/0704-binary-search) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishita1404/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/rishita1404/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishita1404/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rishita1404/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishita1404/leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishita1404/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishita1404/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishita1404/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/rishita1404/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
